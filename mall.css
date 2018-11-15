@@ -1,0 +1,24 @@
+body{
+	background-color: black;
+}
+
+h1 {
+  color: #cc0000;
+  font-size: 1.7em;
+  font-family: Verdana, Arial, san-serif;
+}
+
+h2 {
+  color: #cc0000;
+  font-size: 2em;
+  font-family: Verdana, Arial, san-serif;
+}
+
+p {
+  font-family: Verdana, Arial, san-serif;
+  color: #cc0000;
+  font-size: 1.2em;
+}
+img{
+	width: 400px;
+}
